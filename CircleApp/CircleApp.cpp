@@ -10,6 +10,8 @@ int main()
 	Circle c1;
 
 	cout << c1.getArea();
+
+	Circle c2(5);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
